@@ -639,6 +639,6 @@ function addAdjPvalue(x,chi){
     for(var i = 0; i < x.length; i++){
         x[i].pvalue_adj = result[i].toExponential(5);
     }
-    // console.log(x);
     return x;
 }
+
