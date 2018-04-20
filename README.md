@@ -16,7 +16,7 @@ Run :
 1. After setting up the data, run the application through 'mainpage.html'
 
 # Biostatistical Network Tool (BNT)
-BNT explored an emerging method of associating gene information with other types of biological data by analysing the data through non-parametric tests, plots and sub-network graph in form of Minimum Spanning Tree (MST) to identify interesting gene candidates for further exploration in LdClusterView.
+BNT is a web application which explored an emerging method of associating gene information with other types of biological data by analysing the data through non-parametric tests, plots and sub-network graph in form of Minimum Spanning Tree (MST) to identify interesting gene candidates for further exploration in LdClusterView.
 
 Run :
 1. Download 'BNT' folder
