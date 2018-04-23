@@ -5,8 +5,6 @@ var snps;
 function updateLeafNodesData(){
     if(typeof getLeafNodesData == 'function'){
         getLeafNodesData();
-    }else{
-        return;
     }
     // ld_snps = ajaxCall('/ldcluster2/ld/'+ chr + '/' + startRuler + '/' + endRuler + '/' + population);
     // ld = ld_snps.ld;
