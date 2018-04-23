@@ -6,8 +6,6 @@ var eqtl_studies;
 function updateManhattanData(){
     if(typeof getManhattanData == 'function'){
         getManhattanData();
-    }else{
-        return;
     }
     // eqtls = ajaxCall('/ldcluster2/eqtls/' + geneid);
     // var ld_snps = ajaxCall('/ldcluster2/ld/'+ chr + '/' + startRuler + '/' + endRuler + '/' + population);
